@@ -19,3 +19,17 @@ button {
   border-radius: 5px;
   cursor: pointer;
 }
+
+a {
+  padding: 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #6f2da8;
+}
+
+.friend {
+  padding: 10px 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 400px;
+}
